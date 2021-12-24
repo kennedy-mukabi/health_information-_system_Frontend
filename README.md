@@ -4,7 +4,7 @@ analog ways of record keeping by introducing databases and Ui/ux for
 accessing and managing the records of patients , health workers and scheduled appointments 
 of various patients to their specific doctors.
 
-![alt text](https://github.com/kennedy-mukabi/Health_Information_system/blob/main/dashboard.png?raw=true)
+![alt text](https://github.com/kennedy-mukabi/health_information_system_Backend/blob/main/dashboard.png?raw=true)
 
 ## Group Members
 * Tonui SCCJ/00779/2019
